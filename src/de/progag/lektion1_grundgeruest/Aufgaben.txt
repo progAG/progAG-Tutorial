@@ -1,0 +1,4 @@
+Lektion 1 | Grundgerüst
+===================================
+A1) Schreibe ein Programm, welches Konsolenausgaben, die Variablen enthalten, ausgibt.
+A2) Rechne mit Variablen, die in der Konsole ausgegeben werden. Berügsichtige alle Rechenarten.

@@ -1,0 +1,4 @@
+Lektion 2 | If und Else
+===================================
+A1) Schreibe ein Programm, welches einen Boolean zurückgibt, jenachdem, ob die Abfrage positiv oder negativ ausgefallen ist.
+A2) Schreibe ein Programm, welches mehrere Möglichkeiten einer Variable abfragt.
