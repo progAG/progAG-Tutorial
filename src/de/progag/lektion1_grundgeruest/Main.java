@@ -86,6 +86,7 @@ public class Main {
 		 */
 		
 		System.out.println("Zahlen: " + b + ", " + i + ", " + f);
+		System.out.println("Mehr Zahlen: " + summe + ", " + andereSumme);
 		System.out.println("Summe einiger Zahlen: " + b + i + s + l + d);
 		System.out.println("Zeichen: " + c);
 		System.out.println("Hungrig: " + istHungrig + ", durstig: " + istDurstig);
