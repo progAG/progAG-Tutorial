@@ -5,6 +5,7 @@ public class Main {
 	/**
 	 * Willkommen beim Java-Tutorial
 	 * v. 1.0
+	 * by Mathis Neunzig (DrBackmischung)
 	 * 
 	 * Jedes Projekt benötigt eine Hauptklasse. Bei kleinen Projekten gibt es generell nur eine Klasse.
 	 * In der Hauptklasse muss ein Grundgerüst vorhanden sein, ohne das das Programm nicht startet.
@@ -90,7 +91,7 @@ public class Main {
 		System.out.println("Summe einiger Zahlen: " + b + i + s + l + d);
 		System.out.println("Zeichen: " + c);
 		System.out.println("Hungrig: " + istHungrig + ", durstig: " + istDurstig);
-		System.out.println(string + " isst einen " + neuerString);
+		System.out.println(string + " isst einen " + neuerString + ".");
 		
 	}
 	
