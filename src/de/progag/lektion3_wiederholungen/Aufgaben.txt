@@ -1,0 +1,4 @@
+Lektion 3 | Wiederholungen
+===================================
+A1) Schreibe ein Programm, in dem eine Liste, gefüllt mit Zahlen, in einer For-Schleife die Zahlen addiert/subtrahiert/etc.
+A2) Probier die ArrayList<> für mehrere verschiedene Variablen aus.
