@@ -16,11 +16,16 @@ public class Main {
 			
 			System.out.println("Ich wiederhole mich!");
 			
-			try { // Das Programm wartet 1000 Millisekunden, bis es weiter macht.
-				Thread.sleep(1000);
+			try { 
+				Thread.sleep(1000); // Das Programm wartet 1000 Millisekunden, bis es weiter macht.
 			} catch (InterruptedException e) {
 				e.printStackTrace();
 			}
+			
+			/**
+			 * "try" und "catch" wird in einer anderen Lektion genauer erläutert, hier ist es ohne große Bedeutung.
+			 * Der Befehl "Thread.sleep(1000);" benötigt aber einen "try"- und ein "catch"-Block
+			 */
 			
 		}
 		
