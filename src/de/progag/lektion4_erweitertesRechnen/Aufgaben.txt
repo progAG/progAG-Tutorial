@@ -1,0 +1,4 @@
+Lektion 4 | Erweitertes Rechnen
+===================================
+A1) Schreibe ein Programm, wo eine Zufallszahl in einer If-Schleife überprüft wird. Wenn eine besondere Zahl "gezogen" wird, soll was passieren.
+A2) Schreibe ein Programm, in dem in einer Schleife immer neue Zufallszahlen generiert werden, die zu einer Liste hinzugefügt werden.
