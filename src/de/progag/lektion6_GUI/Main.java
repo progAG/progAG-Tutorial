@@ -4,12 +4,15 @@ import javax.swing.JFrame;
 
 public class Main extends JFrame {
 	
+	private static final long serialVersionUID = 1L;
+
 	/**
 	 * Eine GUI ist ein Benutzerinterface. Allgemein gesagt ist es ein Fenster, was sich öffnet.
 	 * Java hat dafür eine Bibliothek namens "Swing".
 	 * Ein leeres Fenster, was man öffnen kann, heißt "JFrame" und ist ein Objekt, welches wir brauchen.
 	 * Da wir ein neues Fenster (GUI) erstellen, müssen wir hinter "public claas Main" noch "extends JFrame" schreiben, was besagt, dass wir dieses Fenster "kopieren".
 	 * Diese Klasse hat jetzt alle Eigenschaften eines JFrames. Man kann es also schon theoretisch öffnen.
+	 * "private static final long serialVersionUID = 1L;" muss bei einem JFrame angegeben werden.
 	 */
 	
 	public static void main(String[] args) {
